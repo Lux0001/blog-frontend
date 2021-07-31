@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/uploads/:match*",
+      "destination": "http://www.luxzlj.com:1337/uploads/:match*"
+    }
+  ]
+}
